@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Room Allocation</string>
+
+    <string-array name="semester">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="s1">
+        <item>Object Oriented Programming</item>
+        <item>Digital Logic Design</item>
+        <item>Differential Equations</item>
+        <item>Pakistan Studies</item>
+        <item>Communication and Presentation Skills</item>
+    </string-array>
+
+    <string-array name="s2">
+        <item>Operating Systems</item>
+        <item>Theory of Automata</item>
+        <item>Proability and Statistics</item>
+        <item>Numerical Computing</item>
+        <item>Psychology</item>
+        <item>Micro Economics</item>
+        <item>Sociology</item>
+    </string-array>
+
+    <string-array name="s3">
+        <item>Computer Networks</item>
+        <item>Software Engineering</item>
+        <item>Technical and Business Writing</item>
+        <item>Artifical Intelligence</item>
+        <item>Data Science</item>
+        <item>Introduction to Blockchain and Cryptograhy</item>
+        <item>Information Retreival</item>
+        <item>Finance and Accounting</item>
+    </string-array>
+
+    <string-array name="s4">
+        <item>Project-II</item>
+        <item>Design Defects and Restructuring</item>
+        <item>DataWarehousing</item>
+        <item>Web Programming</item>
+        <item>Business Analytics Techniques</item>
+        <item>Deep Learning for Perception</item>
+        <item>Introduction to the Internet of Things</item>
+    </string-array>
+
+
+
+</resources>
